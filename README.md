@@ -1,2 +1,2 @@
-# acunetix-custom-script2-xakep.ru
+# LevelUp для Acunetix
 Исходные коды к статье на [Xakep.ru]
